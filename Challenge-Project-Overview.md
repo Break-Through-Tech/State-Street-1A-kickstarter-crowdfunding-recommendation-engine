@@ -39,7 +39,7 @@ The project's focus on predicting Kickstarter success aligns with real-world app
 # Kickstarter-Crowdfunding-Recommendation-Engine
 
 **Company / Org:** State Street  
-**Challenge Advisor:** Parth Rana, parthrana34@gmail.com  
+**Challenge Advisor:** Neha Panchal, [Email address]     
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
