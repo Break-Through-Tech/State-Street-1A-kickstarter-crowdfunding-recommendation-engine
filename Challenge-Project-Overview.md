@@ -39,7 +39,8 @@ The project's focus on predicting Kickstarter success aligns with real-world app
 # Kickstarter-Crowdfunding-Recommendation-Engine
 
 **Company / Org:** State Street  
-**Challenge Advisor:** Neha Panchal, [Email address]     
+**Challenge Advisor:** Neha Panchal, [Email address]  
+**AI Studio Coach:** Darshan Ugale, darshan.ugale@breakthroughtech.org  
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
