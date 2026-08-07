@@ -36,7 +36,7 @@ The project's focus on predicting Kickstarter success aligns with real-world app
 
 ---
 
-# Kickstarter-Crowdfunding-Recommendation-Engine
+# Kickstarter Crowdfunding Recommendation Engine
 
 **Company / Org:** State Street  
 **Challenge Advisor:** Neha Panchal, [Email address]  
