@@ -1,9 +1,9 @@
 # Kickstarter Crowdfunding Recommendation Engine
 
-**Company / Org:** Insurance Tech
-**Challenge Advisor:** Neha Panchal, nrp.neha@gmail.com 
+**Company / Org:** Insurance Tech  
+**Challenge Advisor:** Neha Panchal, nrp.neha@gmail.com  
 **AI Studio Coach:** Darshan Ugale, darshan.ugale@breakthroughtech.org  
-**Program:** Break Through Tech AI Studio - Fall 2026
+**Program:** Break Through Tech AI Studio - Fall 2026  
 
 ---
 
