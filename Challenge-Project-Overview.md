@@ -7,7 +7,7 @@
 
 ---
 
-## 🏢 About State Street
+## 🏢 About Insurance Tech Experience
 
 Hi Marley is a conversational text platform built for the insurance industry to ease communication between policyholders and carriers, while Cambridge Mobile Telematics uses mobile sensors and AI to measure driving behavior and improve road safety. Both companies modernize insurance processes, but Hi Marley focuses on claims messaging and customer service, whereas Cambridge Mobile Telematics targets risk assessment and crash reduction.
 
