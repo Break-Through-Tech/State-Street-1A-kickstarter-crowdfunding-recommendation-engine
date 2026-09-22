@@ -1,2 +1,17 @@
-data/DSI_kickstarterscrape_dataset.csv
+# Raw data — do not commit. See load_and_inspect_data.py Step 0 for how to regenerate.
+data/
+*.csv
+*.zip
+kaggle.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
 .DS_Store
+.vscode/
